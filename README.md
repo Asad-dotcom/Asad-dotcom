@@ -1,15 +1,13 @@
-<!-- HEADER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Muhammad%20Asad&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Hi+there%2C+I'm+Muhammad+Asad+%F0%9F%91%8B;I+build+scalable+web+apps+end-to-end+%F0%9F%9A%80;I+orchestrate+LLMs+with+LangChain+%26+RAG+%F0%9F%A4%96;Turning+natural+language+into+SQL+%26+insights+%F0%9F%93%8A;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+AI+%E2%9C%A8;Let's+build+something+insane+together+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=Hi+there%2C+I'm+Muhammad+Asad+%F0%9F%91%8B;I+build+scalable+web+apps+end-to-end+%F0%9F%9A%80;I+orchestrate+LLMs+with+LangChain+%26+RAG+%F0%9F%A4%96;Turning+natural+language+into+SQL+%26+insights+%F0%9F%93%8A;Let's+build+something+insane+together+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Asad-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00F7FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="open" />
 
@@ -83,8 +81,6 @@ Ask questions in plain English and get **executable SQL**, **automated business 
 
 `Google Gemini API` · `Recharts`
 
-<a href="https://github.com/Asad-dotcom/AI-Data-Analytics-Platform"><img src="https://img.shields.io/badge/View%20Repo-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="repo" /></a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -134,38 +130,6 @@ Multi-dashboard solution with **live order tracking**, **menu control**, and **r
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-dotcom&theme=tokyonight&hide_border=true" width="70%" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asad-dotcom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Asad%27s%20Contribution%20Graph" width="100%" alt="activity graph" />
-</div>
-
----
-
-## 🐍 Snake Eats My Contributions
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake-dark.svg" />
-</picture>
-</div>
-
----
-
-## 💬 Words I Code By
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 </div>
 
 ---
@@ -185,4 +149,3 @@ Multi-dashboard solution with **live order tracking**, **menu control**, and **r
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer" />
 
 </div>
-
