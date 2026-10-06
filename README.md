@@ -1,63 +1,188 @@
-# Hi there, I'm Muhammad Asad 👋
+<!-- HEADER -->
+<div align="center">
 
-### 🚀 Full Stack Developer & AI Integration Specialist
-I build responsive, scalable web applications and AI-driven platforms end-to-end. Experienced with modern frontend frameworks, backend microservices, and LLM orchestration (LangChain & RAG).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Muhammad%20Asad&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descSize=18&descAlignY=58" width="100%" alt="header" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Hi+there%2C+I'm+Muhammad+Asad+%F0%9F%91%8B;I+build+scalable+web+apps+end-to-end+%F0%9F%9A%80;I+orchestrate+LLMs+with+LangChain+%26+RAG+%F0%9F%A4%96;Turning+natural+language+into+SQL+%26+insights+%F0%9F%93%8A;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+AI+%E2%9C%A8;Let's+build+something+insane+together+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-### 💻 Tech Stack
+<br/>
 
-- **Frontend:** Next.js (App Router, SSR), React.js, Vue.js (Quasar), TypeScript, Tailwind CSS, JavaScript (ES6+)
-- **Backend & Databases:** Node.js, Express.js, PostgreSQL, MongoDB, MySQL, Prisma ORM, RESTful APIs
-- **AI / ML Tools:** LangChain, RAG Pipelines, Vector Databases, Google Gemini API, OpenAI API, Llama 3.3
-- **DevOps & Tools:** Git, GitHub, Vercel, Postman
+<img src="https://komarev.com/ghpvc/?username=Asad-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00F7FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="open" />
 
----
+<br/><br/>
 
-### 🌟 Featured Projects
+<a href="https://my-portfolio-gold-two-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/muhammad-asad-1bba8b395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:asad209673@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Asad-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-#### 📊 [AI Data Analytics Platform](https://github.com/Asad-dotcom/AI-Data-Analytics-Platform)
-> Converts natural language prompts into executable SQL queries, automated business insights, and interactive charts.
-- **Tech Stack:** Next.js, TypeScript, Google Gemini API, PostgreSQL, Redis, Supabase Storage, Recharts.
-
-#### 🔮 CryptoInsight (Final Year Project)
-> Real-time crypto sentiment analysis platform leveraging AI agents and custom RAG retrieval.
-- **Tech Stack:** Next.js, TypeScript, LangChain, Llama 3.3, MongoDB Atlas Vector Search, CoinGecko API.
-
-#### 🛵 Food Delivery Platform
-> Multi-dashboard solution featuring live order tracking, menu control, and role-based authorization.
-- **Tech Stack:** Vue 3, Quasar Framework, Node.js, Express.
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## ⚡ About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad-dotcom&show_icons=true&theme=dark&hide_border=true" alt="Asad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-dotcom&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+```ts
+const asad = {
+  name: "Muhammad Asad",
+  role: ["Full Stack Developer", "AI Integration Specialist"],
+  location: "Lahore, Pakistan 🇵🇰",
+  currentlyBuilding: ["AI analytics tools", "RAG-powered agents"],
+  favoriteStack: ["Next.js", "TypeScript", "PostgreSQL", "LangChain"],
+  superpower: "Shipping end-to-end products, from UI to LLM pipeline",
+  funFact: "I teach databases to speak English (text → SQL) 🪄",
+  lookingFor: "Challenging projects & great teams",
+};
+```
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Tech Arsenal
 
-- **Portfolio:** [my-portfolio-gold-two-19.vercel.app](https://my-portfolio-gold-two-19.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/muhammad-asad-1bba8b395](https://www.linkedin.com/in/muhammad-asad-1bba8b395)
-- **Email:** asad209673@gmail.com
-- **Location:** Lahore, Pakistan
-- 
+<div align="center">
 
-<!--
-**Asad-dotcom/Asad-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎨 Frontend**
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,tailwind,html,css&perline=8" alt="frontend" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**⚙️ Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma,redis,supabase&perline=8" alt="backend" />
+
+**🤖 AI / ML**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20DBs-FF6F00?style=for-the-badge" alt="Vector DB" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Llama%203.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+
+**🧰 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&perline=8" alt="tools" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [AI Data Analytics Platform](https://github.com/Asad-dotcom/AI-Data-Analytics-Platform)
+Ask questions in plain English and get **executable SQL**, **automated business insights**, and **interactive charts**.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,supabase&perline=5" alt="stack" />
+
+`Google Gemini API` · `Recharts`
+
+<a href="https://github.com/Asad-dotcom/AI-Data-Analytics-Platform"><img src="https://img.shields.io/badge/View%20Repo-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 CryptoInsight *(Final Year Project)*
+Real-time **crypto sentiment analysis** powered by AI agents and a **custom RAG retrieval** pipeline.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb&perline=5" alt="stack" />
+
+`LangChain` · `Llama 3.3` · `Atlas Vector Search` · `CoinGecko API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛵 Food Delivery Platform
+Multi-dashboard solution with **live order tracking**, **menu control**, and **role-based authorization**.
+
+<img src="https://skillicons.dev/icons?i=vue,nodejs,express&perline=5" alt="stack" />
+
+`Quasar Framework`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Next Up
+- 🧠 Multi-agent RAG workflows
+- ⚡ Real-time AI dashboards
+- 🔐 Production-grade auth & observability
+
+*Stay tuned — more is coming.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asad-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-dotcom&theme=tokyonight&hide_border=true" width="70%" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asad-dotcom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-dotcom&theme=tokyo-night&hide_border=true&area=true&custom_title=Asad%27s%20Contribution%20Graph" width="100%" alt="activity graph" />
+</div>
+
+---
+
+## 🐍 Snake Eats My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Asad-dotcom/Asad-dotcom/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+## 💬 Words I Code By
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+| 🌐 Portfolio | 💼 LinkedIn | 📧 Email | 📍 Location |
+|:---:|:---:|:---:|:---:|
+| [my-portfolio-gold-two-19.vercel.app](https://my-portfolio-gold-two-19.vercel.app/) | [muhammad-asad](https://www.linkedin.com/in/muhammad-asad-1bba8b395) | [asad209673@gmail.com](mailto:asad209673@gmail.com) | Lahore, Pakistan |
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B500&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;Drop+a+star+if+you+liked+the+vibe+%F0%9F%92%AB;Let's+ship+something+great+%F0%9F%9A%80" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer" />
+
+</div>
+
