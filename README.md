@@ -23,20 +23,18 @@
 ---
 
 ## ⚡ About Me
-
 ```ts
 const asad = {
   name: "Muhammad Asad",
-  role: ["Full Stack Developer", "AI Integration Specialist"],
-  location: "Lahore, Pakistan 🇵🇰",
-  currentlyBuilding: ["AI analytics tools", "RAG-powered agents"],
-  favoriteStack: ["Next.js", "TypeScript", "PostgreSQL", "LangChain"],
-  superpower: "Shipping end-to-end products, from UI to LLM pipeline",
-  funFact: "I teach databases to speak English (text → SQL) 🪄",
-  lookingFor: "Challenging projects & great teams",
+  role: "Full Stack + AI Dev",
+  from: "Lahore, Pakistan 🇵🇰",
+  building: "AI analytics, RAG",
+  stack: "Next.js, TS, PostgreSQL",
+  ai: "LangChain, Gemini, Llama",
+  fun: "Text → SQL wizard 🪄",
+  open: "Great teams & projects",
 };
 ```
-
 ---
 
 ## 🛠️ Tech Arsenal
